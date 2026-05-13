@@ -13,3 +13,6 @@ Backup/
 
 # Claude Code
 .claude/
+
+# Generic testing templates
+beta-testing-checklist.xlsx
