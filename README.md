@@ -12,7 +12,7 @@ The key insight from Huron's research: interval spacing naturally decreases as p
 
 ## Installation
 
-1. Download `Huron4.amxd` (the main VoiceLeader device)
+1. Download `VoiceLeader.amxd`
 2. Place it in your Ableton Live User Library under `MIDI Effects`
 3. Drag onto a MIDI track
 
@@ -45,10 +45,9 @@ When playing chromatically and exceeding the current voice's range, the device a
 
 | File | Description |
 |------|-------------|
-| `Huron4.amxd` | Main VoiceLeader device (recommended) |
+| `VoiceLeader.amxd` | Main Max for Live device |
 | `huron_voiceleading.js` | JavaScript engine with Huron interval data |
 | `huron_m4l_v5.maxpat` | Max patcher (underlying patch) |
-| `Huron.amxd`, `Huron2.amxd`, `Huron3.amxd` | Earlier development versions |
 | `average_voiceleading.adg` | Ableton device group |
 
 ## Technical Details
